@@ -28,7 +28,7 @@ mockDates: provide an array in chronological order of instances of of a Date con
 mockDates([
   "2021-01-01:00:00:00.000Z",
   "2021-01-01:00:00:10.000Z",
-  "real", //nextInterval - we want it to build date off params passed to it
+  "real",
   "2021-01-01:00:00:20.000Z",
 ]);
 
